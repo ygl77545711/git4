@@ -1,4 +1,5 @@
 package com.nnxy.controller;
 
-public class user {
+public class user {	
+	////µÚ5´ÎÊÔÑé
 }
